@@ -1,1 +1,1 @@
-var beginning = "Hello World"
+Hello World
